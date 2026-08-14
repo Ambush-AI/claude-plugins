@@ -10,8 +10,9 @@ can bundle it with the Ambush OAuth MCP server.
 
 ## Available plugins
 
-- [`ambush-streams`](plugins/ambush-streams): create, review, and manage
-  personalized Ambush news streams through the production OAuth MCP server.
+- [`ambush-streams`](plugins/ambush-streams): create, process, deliver, review,
+  and manage personalized Ambush news streams through the production OAuth MCP
+  server.
 
 ## Install
 

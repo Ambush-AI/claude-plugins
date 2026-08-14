@@ -12,17 +12,17 @@
       "name": "ambush-streams",
       "source": "./plugins/ambush-streams",
       "displayName": "Ambush Streams",
-      "description": "Create, review, and manage personalized Ambush news streams from Claude Code.",
-      "version": "0.1.0",
+      "description": "Create, process, deliver, and manage personalized Ambush news streams from Claude Code.",
+      "version": "0.2.0",
       "author": {
         "name": "Ambush AI",
         "email": "support@ambush.ai",
         "url": "https://ambush.ai"
       },
-      "homepage": "https://ambush.ai",
+      "homepage": "https://app.ambush.ai/feeds",
       "repository": "https://github.com/Ambush-AI/claude-plugins",
       "category": "productivity",
-      "tags": ["streams", "news", "monitoring", "alerts"]
+      "tags": ["streams", "news", "monitoring", "alerts", "delivery"]
     }
   ]
 }
