@@ -13,7 +13,7 @@
       "source": "./plugins/ambush-streams",
       "displayName": "Ambush Streams",
       "description": "Create, process, deliver, and manage personalized Ambush news streams from Claude Code.",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "author": {
         "name": "Ambush AI",
         "email": "support@ambush.ai",

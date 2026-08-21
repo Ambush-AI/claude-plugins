@@ -2,7 +2,7 @@
   "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
   "name": "ambush-streams",
   "displayName": "Ambush Streams",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Create, process, deliver, and manage personalized Ambush news streams from Claude Code.",
   "author": {
     "name": "Ambush AI",
